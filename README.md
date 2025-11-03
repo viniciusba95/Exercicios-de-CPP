@@ -21,3 +21,33 @@ Crie um programa que receba um número e diga se ele é par ou ímpar.
 Exercício 1.5 - Calculadora de IMC
 Peça peso e altura ao usuário e calcule o IMC. Fórmula: IMC = peso / (altura * altura)
 
+Exercício 2.1 - Maior de Três Números
+Peça 3 números ao usuário e mostre qual é o maior.
+
+Exercício 2.2 - Menu de Opções
+Crie um menu com opções:
+1. Somar dois números
+2. Subtrair dois números
+3. Multiplicar dois números
+4. Sair
+Use switch case para implementar.
+
+Exercício 2.3 - Classificação de Idade
+Peça a idade e classifique:
+0-12: Criança
+13-17: Adolescente
+18-59: Adulto
+60+: Idoso
+
+Exercício 2.4 - Calculadora de Desconto
+Uma loja dá descontos baseados no valor da compra:
+Até R$100: sem desconto
+R$101 a R$500: 10% de desconto
+Acima de R$500: 20% de desconto
+Calcule o valor final.
+
+Exercício 2.5 - Ano Bissexto
+Crie um programa que verifica se um ano é bissexto. Regra: divisível por 4, MAS se for divisível por 100, só é bissexto se
+também for divisível por 400.
+
+
