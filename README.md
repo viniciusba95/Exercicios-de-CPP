@@ -52,22 +52,24 @@ também for divisível por 400.
 
 Exercício 3.1 - Tabuada
 Peça um número e mostre sua tabuada de 1 a 10.
+
 Exercício 3.2 - Contagem Regressiva
-Faça uma contagem regressiva de 10 até 0.
+Faça uma contagem regressiva de 10 até 0
+
 Exercício 3.3 - Soma de Números
 Peça números ao usuário até ele digitar 0. Mostre a soma de todos os números digitados.
+
 Exercício 3.4 - Fatorial
 Calcule o fatorial de um número. Exemplo: 5! = 5 × 4 × 3 × 2 × 1 = 120
+
 Exercício 3.5 - Números Primos
 Peça um número e verifique se ele é primo (só é divisível por 1 e por ele mesmo).
+
 Exercício 3.6 - Sequência Fibonacci
 Mostre os primeiros 10 números da sequência de Fibonacci. (0, 1, 1, 2, 3, 5, 8, 13, 21, 34...)
+
 Exercício 3.7 - Pirâmide de Asteriscos
 Desenhe uma pirâmide com asteriscos:
-*
-**
-***
-****
-*****
+
 
 
