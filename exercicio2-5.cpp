@@ -64,4 +64,5 @@ do {
       } while (!sairOpcao);
   }
 } while(!sairTotal);
+  return 0;
 }
