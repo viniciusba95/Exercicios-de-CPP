@@ -71,5 +71,24 @@ Mostre os primeiros 10 números da sequência de Fibonacci. (0, 1, 1, 2, 3, 5, 8
 Exercício 3.7 - Pirâmide de Asteriscos
 Desenhe uma pirâmide com asteriscos:
 
+Exercício 4.1 - Maior e Menor Valor
+Crie um array com 5 números. Encontre o maior e o menor valor.
+
+Exercício 4.2 - Inverter Array
+Peça 5 números, armazene num array e mostre na ordem inversa.
+
+Exercício 4.3 - Média de Array
+Crie um array com 10 números e calcule a média.
+
+Exercício 4.4 - Buscar Valor
+Peça 5 números para um array. Depois peça um valor e diga se ele está no array.
+
+Exercício 4.5 - Contar Vogais
+Peça uma string ao usuário e conte quantas vogais ela tem.
+
+Exercício 4.6 - Inverter String
+Peça uma palavra e mostre ela invertida.
+
+
 
 
