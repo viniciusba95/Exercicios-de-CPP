@@ -89,6 +89,23 @@ Peça uma string ao usuário e conte quantas vogais ela tem.
 Exercício 4.6 - Inverter String
 Peça uma palavra e mostre ela invertida.
 
+Exercício 5.1 - Função de Potência
+Crie uma função potencia(base, expoente) que calcule a potência sem usar pow().
+E
+xercício 5.2 - Função Par/Ímpar
+Crie uma função ehPar(numero) que retorne true se o número for par.
+
+Exercício 5.3 - Função de Conversão
+Crie funções para converter:
+celsiusParaFahrenheit()
+fahrenheitParaCelsius()
+
+Exercício 5.4 - Função de Validação
+Crie uma função que valide se uma nota está entre 0 e 10.
+
+Exercício 5.5 - Calculadora com Funções
+Refaça a calculadora do início, mas agora usando funções separadas para cada operação.
+
 
 
 
